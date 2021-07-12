@@ -9,4 +9,4 @@ Materials needed:
 5.buttonns
 6.3d model
 
-All the connections required will be given in the pptx file
+All the connections required will be given in the pptx file.
